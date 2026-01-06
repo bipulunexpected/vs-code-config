@@ -1,4 +1,4 @@
-# Bipul's Pro Developer VS Code Configuration
+# Bipul Pro Developer VS Code Configuration
 
 Welcome to my custom Visual Studio Code configuration! This setup is designed for a clean, professional, and distraction-free coding experience, optimized for web and software development.
 
