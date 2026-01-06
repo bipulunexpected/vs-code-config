@@ -4,7 +4,7 @@ Welcome to my custom Visual Studio Code configuration! This setup is designed fo
 
 It includes my personal theme, curated extensions, and custom settings, all polished for a modern and efficient workflow.
 
-![VS Code Setup Preview](https://i.ibb.co/HD57v2vJ/Screenshot-2026-01-06-205149.png)
+![VS Code Setup Preview](./demo/1.png)
 *Preview of the custom dark theme and background.*
 
 ## 🚀 Quick Installation
